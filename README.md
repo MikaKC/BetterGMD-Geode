@@ -1,3 +1,3 @@
 # BetterGMD
 
-This is where she makes a mod.
+Silly giggly port of https://github.com/MikaKC/BetterGMD
