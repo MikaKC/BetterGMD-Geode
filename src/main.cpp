@@ -10,13 +10,6 @@ class $modify(NewOptionsLayer, OptionsLayer)
 	{
 		OptionsLayer::customSetup();
 	}
-
-	void musicSliderChanged(CCObject* a1)
-	{
-		reinterpret_cast<void(__thiscall*)(CCObject*)>(
-			reinterpret_cast<uintptr_t>(GetModuleHandle("GeometryDash.exe")) + 0x1E5CE0
-		)(a1);
-	}
 };
 
 class $modify(UpgradedPauseLayer, PauseLayer) {
