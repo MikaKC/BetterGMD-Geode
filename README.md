@@ -1,3 +1,2 @@
-# BetterGMD
-
-Silly giggly port of https://github.com/MikaKC/BetterGMD
+# FutureDash
+this is where she makes a mod
